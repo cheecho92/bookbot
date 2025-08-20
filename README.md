@@ -1,2 +1,3 @@
 # bookbot
-First guided project on boot.dev. A small program to gather daata on books.
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
